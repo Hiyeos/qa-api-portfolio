@@ -1,0 +1,25 @@
+{
+  "name": "qa-api-portfolio",
+  "version": "1.0.0",
+  "description": "API test automation portfolio using Newman and GitHub Actions",
+  "homepage": "https://github.com/hiyeos/qa-api-portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/hiyeos/qa-api-portfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiyeos/qa-api-portfolio.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "newman": "^6.2.2",
+    "newman-reporter-htmlextra": "^1.23.1"
+  }
+}
